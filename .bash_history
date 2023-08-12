@@ -193,3 +193,73 @@ git log
 ls -ltr
 git push -f origin main
 exit
+git status
+ls -l
+ls -ltr
+cls
+clear
+git init
+ls -la
+git add .
+clear
+git add .
+git status
+clear
+vi file5
+clear
+git add .
+git commit -m "New file file5"
+git checkout -b feature-lab
+git status
+git log
+git log --oneline
+git branch
+git diff
+clear
+vi file6
+clear
+git diff
+git diff --oneline
+clear
+git diff 
+clear
+git add file6 
+git commit -m "adding file6"
+git branch 
+git branch  master
+git branch  
+git checkout master
+clear
+git branch
+git merge feature-lab
+git remote 
+git remote origin 
+clear
+git remote 
+git remote -v
+clear
+git push -u origin master  
+clear
+git push -u origin master  
+ls
+ls -l
+git pull origin 
+ls -l
+git status
+git brances
+git branc
+git branch
+git checkout feature-lab 
+git pull
+git pull origin
+git pull origin feature-lab
+git pull origin master 
+git status
+git log --oneline
+vi file10
+git push origin
+git push --set-upstream origin feature-lab
+git log
+git log --oneline
+git branch
+exit
